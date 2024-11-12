@@ -1,0 +1,6 @@
+-- Ejercicio 47 --
+Para una empresa con N empleados, se desarrolla un
+algoritmo donde se ingresa como datos el número de orden y
+sueldo de cada empleado, debe imprimirse el numero de orden
+del empleado con el mayor sueldo asi como su sueldo. Haga
+el algoritmo correspondiente.

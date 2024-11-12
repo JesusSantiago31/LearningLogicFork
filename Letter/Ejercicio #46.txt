@@ -1,0 +1,3 @@
+-- Ejercicio 46 --
+Ingresar 50 caracteres e indicar cuantas veces se repite el
+carácter ‘a’.

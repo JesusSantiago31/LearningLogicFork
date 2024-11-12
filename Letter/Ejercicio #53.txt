@@ -1,0 +1,4 @@
+-- Ejercicio 53 --
+Escribir un algoritmo que pida un vector de caracteres por
+pantalla e invierta el orden de los caracteres mostrándolo por
+pantalla. La inversión se hará sin utilizar otro vector auxiliar.

@@ -1,0 +1,4 @@
+-- Ejercicio 45 --
+Crear un algoritmo, que dado N números enteros ingresados
+por teclado determine cuál de ellos es el menor y mayor
+respectivamente.

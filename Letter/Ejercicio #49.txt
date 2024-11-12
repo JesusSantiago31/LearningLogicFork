@@ -1,0 +1,6 @@
+-- Ejercicio 49 --
+Sean 2 matrices A y B ambas bidimensionales, para que se
+puedan sumar deben poseer el mismo número de filas y
+columnas, cada elemento de la matriz resultante será la suma
+de los correspondientes elementos de las matrices A y B.
+C(i , j) = A (i , j) + B (i , j)

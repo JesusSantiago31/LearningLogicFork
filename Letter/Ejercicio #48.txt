@@ -1,0 +1,4 @@
+-- Ejercicio 48 --
+Se tiene N temperaturas. Se desea calcular su media y
+determinar entre todas ellas cuantas son superiores o iguales a
+esa media. Haciendo uso de vetores.
